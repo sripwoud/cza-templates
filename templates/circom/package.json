@@ -1,0 +1,15 @@
+{
+  "name": "cza-circom-template",
+  "devDependencies": {
+    "bun-types": "^1.2.2",
+    "snarkjs": "^0.7.5"
+  },
+  "scripts": {
+    "lint-sol": "cd contracts && solhint **/*.sol",
+    "typecheck": "cd web && bun run tsc -p tsconfig.app.json"
+  },
+  "workspaces": [
+    "circuits",
+    "web"
+  ]
+}

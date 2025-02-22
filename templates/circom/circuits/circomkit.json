@@ -1,0 +1,7 @@
+{
+  "curve": "bn128",
+  "include": ["../node_modules"],
+  "protocol": "groth16",
+  "verbose": true,
+  "version": "2.1.2"
+}

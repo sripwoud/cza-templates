@@ -1,0 +1,10 @@
+broadcast
+cache
+contracts/dependencies
+coverage
+dist
+lcov.info
+node_modules
+out
+.env*
+.zed
