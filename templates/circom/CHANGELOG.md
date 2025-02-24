@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/sripwoud/cza-templates/compare/cza-circom-template-v0.0.3...cza-circom-template-v0.0.4) (2025-02-24)
+
+
+### Bug Fixes
+
+* **setup:** trust `mise` ([9ccc970](https://github.com/sripwoud/cza-templates/commit/9ccc9704ee0c41a68ec8e31977dea8f48b77543e))
+
 ## [0.0.3](https://github.com/sripwoud/cza-templates/compare/cza-circom-template-v0.0.2...cza-circom-template-v0.0.3) (2025-02-24)
 
 
