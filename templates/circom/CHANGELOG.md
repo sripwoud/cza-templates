@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.6](https://github.com/sripwoud/cza-templates/compare/cza-circom-template-v0.0.5...cza-circom-template-v0.0.6) (2025-02-24)
+
+
+### Bug Fixes
+
+* **circom:** activate mise with shims in non interactive shells ([8445dbf](https://github.com/sripwoud/cza-templates/commit/8445dbf463d946c019c07e12d259deb0ae3800b7))
+
 ## [0.0.5](https://github.com/sripwoud/cza-templates/compare/cza-circom-template-v0.0.4...cza-circom-template-v0.0.5) (2025-02-24)
 
 
