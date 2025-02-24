@@ -18,7 +18,7 @@
     "lint-sol": "cd contracts && solhint **/*.sol",
     "typecheck": "cd web && bun run tsc -p tsconfig.app.json"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "workspaces": [
     "circuits",
     "web"
