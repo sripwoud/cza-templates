@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.5](https://github.com/sripwoud/cza-templates/compare/cza-circom-template-v0.0.4...cza-circom-template-v0.0.5) (2025-02-24)
+
+
+### Bug Fixes
+
+* **circom:** update `setup` script ([8859141](https://github.com/sripwoud/cza-templates/commit/8859141939ca245228ee766fcb1a8590be6b3889))
+
 ## [0.0.4](https://github.com/sripwoud/cza-templates/compare/cza-circom-template-v0.0.3...cza-circom-template-v0.0.4) (2025-02-24)
 
 
