@@ -14,7 +14,7 @@ This template includes:
 
 ## Develop
 
-To start setup and start everything:
+To setup and start everything:
 
 ```commandline
 ./setup
