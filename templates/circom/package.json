@@ -1,13 +1,24 @@
 {
-  "name": "cza-circom-template",
+  "author": {
+    "email": "me@sripwoud.xyz",
+    "name": "sriproud",
+    "url": "https://sripwoud.xyz"
+  },
+  "bugs": {
+    "url": "https://github.com/sripwoud/cza-templates/issues"
+  },
   "devDependencies": {
     "bun-types": "^1.2.2",
     "snarkjs": "^0.7.5"
   },
+  "homepage": "https://github.com/sripwoud/cza-templates/tree/main/templates/circom",
+  "name": "cza-circom-template",
+  "repository": "git+https://github.com/sripwoud/cza-templates.git",
   "scripts": {
     "lint-sol": "cd contracts && solhint **/*.sol",
     "typecheck": "cd web && bun run tsc -p tsconfig.app.json"
   },
+  "version": "0.0.1",
   "workspaces": [
     "circuits",
     "web"
